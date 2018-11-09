@@ -1,0 +1,1 @@
+ build/default/debug/lab6.d  build/default/debug/lab6.p1:  lab6.c
